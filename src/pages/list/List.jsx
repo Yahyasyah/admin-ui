@@ -1,9 +1,9 @@
 import "./list.scss";
 
-const Home = () => {
+const List = () => {
   return (
-    <div>Home</div>
+    <div>List</div>
   )
 }
 
-export default Home
+export default List
